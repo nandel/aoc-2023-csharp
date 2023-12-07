@@ -1,6 +1,6 @@
 ﻿namespace Solutions;
 
-public class Day1
+public static class Day1
 {
     private static readonly Dictionary<string, char> s_wordMap = new()
     {
